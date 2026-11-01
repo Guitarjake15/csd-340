@@ -1,0 +1,40 @@
+/*
+Name: Jacob Richman
+Date: 10/31/2026
+Assignment: Module 4.2 Landing Page
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500&display=swap');
+
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+#container {
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    background-color: #9c2f2f;
+    color: white;
+    border: 1px solid #D6A800;
+    padding: 10px;
+}
+
+a {
+    color: #9c2f2f;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #D6A800;
+}
+
+a:visited {
+    color: #6b1f1f;
+}
