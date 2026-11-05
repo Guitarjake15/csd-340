@@ -1,0 +1,31 @@
+/*
+Jacob Richman
+11/04/2026
+Assignment 4.2: Build a Web Page Exercise - Part 4
+*/
+
+h1 {
+    text-align: center;
+    color: rgba(0, 0, 255, 0.8);
+}
+
+#image-gallery {
+    margin-top: 10%;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+h3 {
+    text-align: center;
+    color: rgba(255, 0, 0, 0.8);
+}
+
+figure {
+    text-align: center;
+}
+
+figcaption {
+    font-style: italic;
+    font-size: 0.75em;
+    color: rgba(0, 128, 0, 0.8);
+}
